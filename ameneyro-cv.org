@@ -1,5 +1,9 @@
-#+TITLE: CV
+#+TITLE: CV Bernardo Ameneyro Rodriguez
 #+AUTHOR: Bernardo Ameneyro
+
+* Contact
++ *Email:* bameneyr@tennessee.edu
++ *Office:* Ayres 125, 1403 Circle Drive, Knoxville, TN 37996
 
 * Interests
 My current research interests encompass the applications of artificial intelligence, data science, machine learning and quantum computing to biology, ecology and medicine. In the past I have worked with stochastic and ODE models for infectious diseases. My personal interests include the development of free and open source software as well as scientific outreach.
