@@ -1,0 +1,51 @@
+#+TITLE: CV
+#+AUTHOR: Bernardo Ameneyro
+
+* Interests
+My current research interests encompass the applications of artificial intelligence, data science, machine learning and quantum computing to biology, ecology and medicine. In the past I have worked with stochastic and ODE models for infectious diseases. My personal interests include the development of free and open source software as well as scientific outreach.
+
+* Education
++ PhD (In progress), Department of Mathematics, University of Tennessee at Knoxville, TN, US.
++ MSc (2022), Department of Mathematics, University of Tennessee at Knoxville, TN, US.
++ BSc (2019), Facultad de Ciencias, Universidad de Colima, Col, MX.
+
+* Work Experience
+** Research
++ Graduate Research Assistant (Spring 2021 to present), Maroulas Research Group, Department of Mathematics, University of Tennessee at Knoxville, TN.
++ REU participant (Summer 2019), Mathematical and Theoretical Biology Institute (MTBI), Arizona State University, AZ.
++ Undergraduate Thesis (Fall 2017 to Spring 2019), Universidad de Colima, Col, MX.
+** Teaching
++ Graduate Teaching Assistant (Fall 2019 - Fall 2020), Department of Mathematics, University of Tennessee at Knoxville, TN.
+  - Math 119, College Algebra, Fall 2019 and Spring 2020
+  - Math 123, Finite Mathematics, Fall 2020
++ Undergraduate Teaching Assistant ...
+
+* Publications
++ B. Ameneyro, V. Maroulas, and G. Siopsis. Quantum Persistent Homology, arXiv:2202.12965
+
+* Talks
++ APS meeting
++ Quantum meeting
++ NimBios undergrad conference
++ MTBI
+
+* Awards and Honours
+...
+
+* Professional Affiliations
++ Member, SACNAS UTK student chapter.
+
+* Skills
+** Programming
++ Python, Matlab, Mathematica, R, Julia, LaTeX (Scientific)
++ HTML, CSS, Javascript (Web development)
++ Haskell, Emacs lisp, Bash script, Fish script (Linux ricing)
+** Languages
++ Spanish (primary)
++ English (fluent)
++ French, Portuguese (basic)
+** Others
++ Basic video/audio editing and recording
++ Karate, Kung Fu
++ Soccer, Basketball, Volleyball
++ Cooking, Baking
