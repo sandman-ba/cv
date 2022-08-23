@@ -42,13 +42,14 @@ My current research interests encompass the applications of artificial intellige
 + B. Ameneyro, V. Maroulas, and G. Siopsis. Quantum Persistent Homology, arXiv:2202.12965
 
 * Talks
-+ APS meeting
-+ Quantum meeting
-+ NimBios undergrad conference
-+ MTBI
-
-* Awards and Honours
-...
++ Short Talks
+  - Quantum Persistent Homology, Southeast Quantum Computing Workshop, Center for Simulational Physics, University of Georgia, Athens, GA, 20th of May 2022 (online synchronous)
+  - Quantum Persistent Homology, APS March Meeting, Chicago, IL, 14th to 18th of March 2022 (online video recording)
+  - The role of preferential mating and Wolbachia infection on the /Aedes Aegypti/ population dynamics, 11th Annual Undergraduate Research Conference at the Interface of Biology and Mathematics, Knoxville, TN, 17th of November 2019
+  - The role of preferential mating and Wolbachia infection on the /Aedes Aegypti/ population dynamics, Mathematical and Theoretical Biology Institute (MTBI), Arizona State University, Tempe, AZ, 25th of July 2019
++ Poster Presentations
+  - The role of preferential mating and Wolbachia infection on the /Aedes Aegypti/ population dynamics, Mathematical and Theoretical Biology Institute (MTBI), Arizona State University, Tempe, AZ, 25th of July 2019
+  - Effect of the initial concentration of substrate in a process of fermentation by /Zymomonas Mobilis/, XIV Encuentro Nacional de Biologia Matematica, CIMAT, Guanajuato, 10th of October 2018
 
 * Professional Affiliations
 + Member, SACNAS UTK student chapter.
